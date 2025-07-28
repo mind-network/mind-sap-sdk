@@ -1,0 +1,12 @@
+/node_modules
+/dist
+.DS_Store
+/README-internal.md
+/tests/base.ts
+/tests/config_test.ts
+/tests/test.test.ts
+yarn.lock
+document-internal.md
+package-lock.json
+build-github.js
+/github_dist
